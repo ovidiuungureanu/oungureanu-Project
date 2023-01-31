@@ -1,0 +1,10 @@
+    Project Movie
+
+    I want to be able to access a page where i can:
+- log on/create a user
+- search a specific movie by Name
+- see different sections of movies(sorted by genre)
+- add a movie to a list/Favorite
+- give a Rating/Comment
+- receive a notification with the latest movies that were released
+- view a chart (maybe) with the best movies sorted by rating(that the users have given) 
